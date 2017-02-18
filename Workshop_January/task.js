@@ -1,5 +1,3 @@
-'use strict';
-
 function solve() {
 	function getProduct(productType, name, price) {
 
